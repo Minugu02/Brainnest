@@ -1,4 +1,4 @@
-filename = 'lorem.txt'
+filename = '../week3_assignments/lorem.txt'
 with open(filename, 'r') as file:
     data = file.read()
 
